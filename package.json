@@ -1,0 +1,16 @@
+{
+  "name": "playwright-api-starter",
+  "version": "1.0.0",
+  "description": "Playwright API automation starter — token caching, controller pattern, CRUD flows",
+  "type": "module",
+  "scripts": {
+    "test:dev":  "cross-env ENV=dev  npx playwright test",
+    "test:prod": "cross-env ENV=prod npx playwright test",
+    "report":    "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.4.5"
+  }
+}
