@@ -55,7 +55,7 @@ playwright-api-starter/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/playwright-api-starter.git
+git clone https://github.com/Sehajpreet01/playwright-api-framework/settings
 cd playwright-api-starter
 
 # 2. Install dependencies
